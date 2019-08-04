@@ -14,7 +14,7 @@ import javax.xml.crypto.Data;
 public class TestGit {
     private int id;
     private Data data;
-    public String call(){
-        return "";
+    public String commit(){
+        return "changged!!!";
     }
 }
