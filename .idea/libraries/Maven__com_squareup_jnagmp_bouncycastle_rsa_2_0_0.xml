@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.squareup.jnagmp:bouncycastle-rsa:2.0.0">
+    <CLASSES>
+      <root url="jar://E:/chrom download/apache-maven-3.5.4/respository/com/squareup/jnagmp/bouncycastle-rsa/2.0.0/bouncycastle-rsa-2.0.0.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://E:/chrom download/apache-maven-3.5.4/respository/com/squareup/jnagmp/bouncycastle-rsa/2.0.0/bouncycastle-rsa-2.0.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://E:/chrom download/apache-maven-3.5.4/respository/com/squareup/jnagmp/bouncycastle-rsa/2.0.0/bouncycastle-rsa-2.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
