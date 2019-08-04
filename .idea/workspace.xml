@@ -519,9 +519,10 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.RSAUtil" />
-        <item itemvalue="Application.AESUtil" />
+        <item itemvalue="JUnit.DemoApplicationTests.testSec" />
         <item itemvalue="JUnit.DemoApplicationTests.contextLoads" />
+        <item itemvalue="Application.AESUtil" />
+        <item itemvalue="Application.RSAUtil" />
         <item itemvalue="JUnit.DemoApplicationTests.testSec" />
       </list>
     </recent_temporary>
