@@ -10,4 +10,5 @@ package com.yg.demo.user.entity;
 
 
 public class TestTWO {
+  system.out.println("yg ,hello");
 }
