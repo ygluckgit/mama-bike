@@ -1,5 +1,7 @@
 package com.yg.demo.user.entity;
 
+import javax.xml.crypto.Data;
+
 /**
  * @ClassName TestGit
  * @Description TODO
@@ -8,6 +10,11 @@ package com.yg.demo.user.entity;
  * @Version 1.0
  **/
 
-
+@lombok.Data
 public class TestGit {
+    private int id;
+    private Data data;
+    public String call(){
+        return "";
+    }
 }
